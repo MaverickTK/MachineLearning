@@ -27,6 +27,8 @@ Many of the materials in this roadmap were inspired by [Daniel Formoso](https://
   [Mathematics for Machine Learning](https://github.com/MaverickTK/MachineLearning/blob/main/Maths%20of%20ML.pdf) 
   
   [DeepLearning.ai -Andrew Ng](https://www.deeplearning.ai/)
+
+  [AI and Machine Learning](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/)
   
   [Fast.ai -Part-1](https://course.fast.ai/)
   
